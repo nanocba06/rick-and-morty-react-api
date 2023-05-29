@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rick-and-morty-react-api/static/js/main.450f3e7b.js",
+    "main.js": "/rick-and-morty-react-api/static/js/main.7aad4a56.js",
     "index.html": "/rick-and-morty-react-api/index.html",
-    "main.450f3e7b.js.map": "/rick-and-morty-react-api/static/js/main.450f3e7b.js.map"
+    "main.7aad4a56.js.map": "/rick-and-morty-react-api/static/js/main.7aad4a56.js.map"
   },
   "entrypoints": [
-    "static/js/main.450f3e7b.js"
+    "static/js/main.7aad4a56.js"
   ]
 }
